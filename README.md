@@ -11,7 +11,7 @@ numero nodi, archi e sorgente.
 Se l'input è corretto, permette la generazione del cammino minimo dalla sorgente con 'Get path'.
 
 Generato il grafo, l'utente può:
-- cambiare valori e crearne un'altro 
+- cambiare valori e crearne un altro 
 - calcolare un altro cammino minimo sullo stesso grafo.
 
 È sufficiente cambiare valore della sorgente, mantenere invariati i valori dei nodi ed archi 
